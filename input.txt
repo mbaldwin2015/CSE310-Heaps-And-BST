@@ -1,0 +1,11 @@
+6
+7
+8
+allocate BST root 5
+map
+insert root 3
+map
+insert root 7
+map
+insert root 6
+map
